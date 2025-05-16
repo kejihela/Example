@@ -1,0 +1,7 @@
+{"time":"2025-03-18T12:06:58.577454+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"G:\\UNICCON_projects\\TTS\\parler-tts-main\\wandb\\offline-run-20250318_120657-xrh3j0zq\\logs\\debug-core.log"}
+{"time":"2025-03-18T12:06:59.7225477+01:00","level":"INFO","msg":"created new stream","id":"xrh3j0zq"}
+{"time":"2025-03-18T12:06:59.7225648+01:00","level":"INFO","msg":"stream: started","id":"xrh3j0zq"}
+{"time":"2025-03-18T12:06:59.7225648+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"xrh3j0zq"}
+{"time":"2025-03-18T12:06:59.7225648+01:00","level":"INFO","msg":"handler: started","stream_id":"xrh3j0zq"}
+{"time":"2025-03-18T12:06:59.7225648+01:00","level":"INFO","msg":"sender: started","stream_id":"xrh3j0zq"}
+{"time":"2025-03-18T12:06:59.9100527+01:00","level":"INFO","msg":"Starting system monitor"}

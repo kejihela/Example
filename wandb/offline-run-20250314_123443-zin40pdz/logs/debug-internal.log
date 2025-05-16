@@ -1,0 +1,14 @@
+{"time":"2025-03-14T12:34:43.8572554+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"G:\\UNICCON_projects\\TTS\\parler-tts-main\\wandb\\offline-run-20250314_123443-zin40pdz\\logs\\debug-core.log"}
+{"time":"2025-03-14T12:34:44.696528+01:00","level":"INFO","msg":"created new stream","id":"zin40pdz"}
+{"time":"2025-03-14T12:34:44.696528+01:00","level":"INFO","msg":"stream: started","id":"zin40pdz"}
+{"time":"2025-03-14T12:34:44.696528+01:00","level":"INFO","msg":"sender: started","stream_id":"zin40pdz"}
+{"time":"2025-03-14T12:34:44.696528+01:00","level":"INFO","msg":"handler: started","stream_id":"zin40pdz"}
+{"time":"2025-03-14T12:34:44.696528+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"zin40pdz"}
+{"time":"2025-03-14T12:34:44.8415156+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-14T12:35:17.8167778+01:00","level":"INFO","msg":"stream: closing","id":"zin40pdz"}
+{"time":"2025-03-14T12:35:17.8167778+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-14T12:35:17.8176038+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-14T12:35:17.8176038+01:00","level":"INFO","msg":"handler: closed","stream_id":"zin40pdz"}
+{"time":"2025-03-14T12:35:17.8176038+01:00","level":"INFO","msg":"sender: closed","stream_id":"zin40pdz"}
+{"time":"2025-03-14T12:35:17.8176038+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zin40pdz"}
+{"time":"2025-03-14T12:35:17.8181432+01:00","level":"INFO","msg":"stream: closed","id":"zin40pdz"}

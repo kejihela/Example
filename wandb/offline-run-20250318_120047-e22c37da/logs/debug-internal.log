@@ -1,0 +1,14 @@
+{"time":"2025-03-18T12:00:47.960132+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"G:\\UNICCON_projects\\TTS\\parler-tts-main\\wandb\\offline-run-20250318_120047-e22c37da\\logs\\debug-core.log"}
+{"time":"2025-03-18T12:00:48.8797162+01:00","level":"INFO","msg":"created new stream","id":"e22c37da"}
+{"time":"2025-03-18T12:00:48.8797162+01:00","level":"INFO","msg":"stream: started","id":"e22c37da"}
+{"time":"2025-03-18T12:00:48.8797162+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"e22c37da"}
+{"time":"2025-03-18T12:00:48.8797162+01:00","level":"INFO","msg":"sender: started","stream_id":"e22c37da"}
+{"time":"2025-03-18T12:00:48.8797162+01:00","level":"INFO","msg":"handler: started","stream_id":"e22c37da"}
+{"time":"2025-03-18T12:00:48.9111376+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-18T12:01:27.0590322+01:00","level":"INFO","msg":"stream: closing","id":"e22c37da"}
+{"time":"2025-03-18T12:01:27.2116443+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-18T12:01:27.2966347+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-18T12:01:27.4534876+01:00","level":"INFO","msg":"handler: closed","stream_id":"e22c37da"}
+{"time":"2025-03-18T12:01:27.4534876+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"e22c37da"}
+{"time":"2025-03-18T12:01:27.4534876+01:00","level":"INFO","msg":"sender: closed","stream_id":"e22c37da"}
+{"time":"2025-03-18T12:01:27.4534876+01:00","level":"INFO","msg":"stream: closed","id":"e22c37da"}

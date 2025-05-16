@@ -1,0 +1,14 @@
+{"time":"2025-03-18T11:30:13.8556415+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"G:\\UNICCON_projects\\TTS\\parler-tts-main\\wandb\\offline-run-20250318_113013-ahhmzz6p\\logs\\debug-core.log"}
+{"time":"2025-03-18T11:30:14.9082731+01:00","level":"INFO","msg":"created new stream","id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:14.9084484+01:00","level":"INFO","msg":"stream: started","id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:14.9084484+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:14.9084484+01:00","level":"INFO","msg":"sender: started","stream_id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:14.9084484+01:00","level":"INFO","msg":"handler: started","stream_id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:14.9438509+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-18T11:30:46.1984854+01:00","level":"INFO","msg":"stream: closing","id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:46.3073192+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-18T11:30:46.4079129+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-18T11:30:46.7027495+01:00","level":"INFO","msg":"handler: closed","stream_id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:46.7027495+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:46.7027495+01:00","level":"INFO","msg":"sender: closed","stream_id":"ahhmzz6p"}
+{"time":"2025-03-18T11:30:46.7027495+01:00","level":"INFO","msg":"stream: closed","id":"ahhmzz6p"}
